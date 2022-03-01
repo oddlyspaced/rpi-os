@@ -8,3 +8,6 @@
 - ld -> linker script
 - h -> headers
 - minimal assembly is needed to load up and set up things and to pass control over to our C files
+- PBASE = Base Peripheral Address
+
+## Saturday - 20 Feb '22
